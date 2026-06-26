@@ -220,8 +220,8 @@ but any bit would help.  --Nathanael
  en_US.UTF-8/Compose:		sl_SI.UTF-8
 +en_US.UTF-8/Compose:		so_ET.UTF-8
  en_US.UTF-8/Compose:		sq_AL.UTF-8
- en_US.UTF-8/Compose:		sr_ME.UTF-8
- en_US.UTF-8/Compose:		sr_RS.UTF-8
+ sr_RS.UTF-8/Compose:		sr_ME.UTF-8
+ sr_RS.UTF-8/Compose:		sr_RS.UTF-8
 @@ -442,6 +475,7 @@ en_US.UTF-8/Compose:		tg_TJ.UTF-8
  th_TH.UTF-8/Compose:		th_TH.UTF-8
  en_US.UTF-8/Compose:		ti_ER.UTF-8
